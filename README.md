@@ -6,7 +6,7 @@ First Terminal:
 
 pip install netfilterqueue
 
-python replace_download.py
+python replace_downloads.py
 
 Second Terminal: Outside the Machine:
 
